@@ -1,5 +1,5 @@
 # Simple Investment Property Valuation
-Simple Investment Property Valuation,简易版投资型房屋估值
+Simple Investment Property Valuation,简易版投资型房屋估值,Python代码
 
 # 文件说明
 # 1. 估值模型说明：
